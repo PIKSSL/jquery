@@ -1,0 +1,12 @@
+#kepek{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#kepek div{
+    flex: 0 1 33%;
+}
+#kicsi{
+    width: 400px;
+}

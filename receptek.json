@@ -1,0 +1,18 @@
+{ 
+    "receptek":[{
+        "nev":"Kacsa",
+        "elid":"12",
+        "kep":"/kep/c.jpg",
+        "leiras":"elkeszitesblabla",
+        "hozzavalok":["hozzavalo1","hozza2","hozza3"]
+    },
+    {
+        "nev":"nemkascsa",
+        "elid":"142",
+        "kep":"/kep/a.png",
+        "leiras":"elkesasdasdzitesblabla",
+        "hozzavalok":["hozzavalo1","hozza2","hozza3"]
+    }
+
+]
+}
